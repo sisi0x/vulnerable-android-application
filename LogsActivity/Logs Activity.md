@@ -1,9 +1,6 @@
  That very important to focus if the application show the username or password or credit card in logs as clean text or not
 
-And lieek http reqoust 
-and root dection bypass 
-
-##### The firs step we need the package name and `id` and use adb logcat 
+##### The first step we need the package name and `id` and use adb logcat
 
 1- To know all packages used the Command : adb shell pm list packages
 
