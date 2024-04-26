@@ -1,6 +1,6 @@
-
 The Source code
-![[Pasted image 20240426120319.png]]
+![Pasted image 20240426120319](https://github.com/sisi0x/vulnerable-android-application/assets/100969542/7825a627-7d2f-4b19-b754-8420f61166af)
+
 Let's start to  analyzing the code is very simple, we have to enter the first username and the second password and take the username and password to store in Default Shared Preferences as clean text , Here is an issue
 
 ### To see the data
