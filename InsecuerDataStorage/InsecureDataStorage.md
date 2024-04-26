@@ -6,7 +6,10 @@ Let's start to  analyzing the code is very simple, we have to enter the first us
 
 ### To see the data
 \Go in `data\data` and select the `package name` 
-Command : cat jakhar.aseem.diva_preferences.xml![[Screenshot 2024-04-26 115908.png]]
+Command : cat jakhar.aseem.diva_preferences.xml
+
+
+![Screenshot 2024-04-26 115908](https://github.com/sisi0x/vulnerable-android-application/assets/100969542/21c19acb-3cdf-4b87-ad9c-6da612790fdc)
 
 we don't recommend stored any sensitive data like username or password or credit card as clean text in Shared Preferences and we not recommend using Shared Preferences
 
