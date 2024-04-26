@@ -26,4 +26,4 @@ Command:  adb logcat --pid=4813
 
 
 Mitgition :
-Don't using function Log with senet
+Don't using function Log with sensitive data
