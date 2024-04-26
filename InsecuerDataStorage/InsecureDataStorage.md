@@ -14,6 +14,8 @@ Command : cat jakhar.aseem.diva_preferences.xml
 we don't recommend stored any sensitive data like username or password or credit card as clean text in Shared Preferences and we not recommend using Shared Preferences
 
 
-Mitigation : recommendation using data stored
+Mitigation : recommendation using data stored or  KeyChain 
 why using data stored?
 beause wan used data stored you need key and value, rembambr using Encrypt like AES and the backmod is cbc
+
+https://developer.android.com/reference/android/security/KeyChain.html
